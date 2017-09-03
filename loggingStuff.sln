@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "loggingStuff", "loggingStuff\loggingStuff.csproj", "{BFC76455-DF57-4F11-81CC-E8EDA814FB89}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonLog", "CommonLog\CommonLog.csproj", "{1122BEE9-E2D5-4B59-B4CD-4B2BE2CF6E0F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -13,5 +15,9 @@ Global
 		{BFC76455-DF57-4F11-81CC-E8EDA814FB89}.Debug|x86.Build.0 = Debug|x86
 		{BFC76455-DF57-4F11-81CC-E8EDA814FB89}.Release|x86.ActiveCfg = Release|x86
 		{BFC76455-DF57-4F11-81CC-E8EDA814FB89}.Release|x86.Build.0 = Release|x86
+		{1122BEE9-E2D5-4B59-B4CD-4B2BE2CF6E0F}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{1122BEE9-E2D5-4B59-B4CD-4B2BE2CF6E0F}.Debug|x86.Build.0 = Debug|Any CPU
+		{1122BEE9-E2D5-4B59-B4CD-4B2BE2CF6E0F}.Release|x86.ActiveCfg = Release|Any CPU
+		{1122BEE9-E2D5-4B59-B4CD-4B2BE2CF6E0F}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
